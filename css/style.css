@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    line-height: 1.5em;
+
+}
+.wrapper {
+    max-width: 1200px;
+}
+h1 {
+
+}
+h2 {
+
+}
+h3{
+
+}
+header {
+    background-color: #000;
+}
+#title {
+    background-color: #fff;
+    background-image: ../images/ice-cream-cones.jpeg;
+}
+#welcome {
+    background-color: #7251B5;
+}
+#favourites {
+    background-color: #000;
+}
+#team {
+    background-color: #7251B5;
+}
+footer {
+    background-color: #000;
+}
